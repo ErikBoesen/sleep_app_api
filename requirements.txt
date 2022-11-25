@@ -1,0 +1,14 @@
+Flask
+Flask-Cors
+Flask-SQLAlchemy
+Flask-WTF
+Flask-Migrate
+Flask-Bcrypt
+Flask-Seeder
+Flask-Mail
+requests
+psycopg2
+gunicorn
+pyjwt>=2.3.0
+facebook-sdk
+profanityfilter
